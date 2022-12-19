@@ -9,7 +9,7 @@ def clear():
 while True:
   c.print_t()
   dialog = c.dialog()
-  if dialog == 5:
+  if dialog == 4:
     break
   elif dialog == 1:
     c.add_contact()
